@@ -1,0 +1,5 @@
+dn: dc=danny,dc=com
+objectClass: dcObject
+objectClass: organization
+dc: danny
+o: danny
